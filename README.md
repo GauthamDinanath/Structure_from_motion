@@ -1,1 +1,1 @@
-# sfm-Matlab
+# Structure from motion
